@@ -20,7 +20,7 @@
 - Hello World, Happy Coding!!!![Akshar Rastogi](https://github.com/akshar99/)
 - [Saad Ahmed](https://github.com/MahbubHS) 🟢
 - [Jahin Ahnaf](https://github.com/jahin-ahnaf) / BANGLADESH
-- [Yash Mehetre](https://github.com/YashMehetre)
+- [Rudramani Dhiman](https://github.com/Rudraam)
 - [Sandip Patel](https://github.com/slotify-dev)
 - [Ritik Verma](https://github.com/vritik907) 👈(ﾟヮﾟ 👈)
 - [Taniya](https://github.com/taniyaapatel) 👈(ﾟヮﾟ 👈)
