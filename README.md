@@ -55,7 +55,7 @@ For example:
 git branch add-alonzo-church
 ```
 
-Then, switch to this new branch with the `git checkout` command:
+
 
 ```bash
 git checkout your-new-branch-name
@@ -79,9 +79,7 @@ Add those changes to the branch you just created using the `git add` command:
 
 ```bash
 git add Contributors.md
-```
 
-Now commit those changes using the `git commit` command:
 
 ```bash
 git commit -m "Add your-name to Contributors list"
